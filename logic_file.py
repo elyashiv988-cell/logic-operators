@@ -20,3 +20,12 @@ c=""
 print(bool(a))
 print(bool(b))
 print(bool(c))
+#namber 7
+x=None
+y=42
+print(x or y)
+# x retorn my baby's age, y return my age
+#namber 8
+user_name=""
+default="guest"
+print(user_name or default)
