@@ -29,3 +29,9 @@ print(x or y)
 user_name=""
 default="guest"
 print(user_name or default)
+#namber 9
+print(True and False or True)
+print("[True and False] or True")
+#namber 10 
+score = 75
+print(60< score<100)
