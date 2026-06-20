@@ -8,8 +8,15 @@ status=False
 print (not status)
 # namber 4
 age=20
-hsa_id=True
-print(age <= 18 and has_id==True)
+has_id=True
+print(age >= 18 and has_id==True)
 #namber 5
 level=3
-print(1< level >5)
+print(1< level <5)
+#namber 6
+a=0
+b="hello"
+c=""
+print(bool(a))
+print(bool(b))
+print(bool(c))
